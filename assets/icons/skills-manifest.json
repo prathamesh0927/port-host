@@ -1,0 +1,74 @@
+{
+  "backend": [
+    "django.png",
+    "dotnet.png",
+    "express.png",
+    "flask.png",
+    "laravel.png",
+    "nestjs.png",
+    "nodejs.png",
+    "php.png",
+    "ruby.png",
+    "spring.png"
+  ],
+  "cloud": [
+    "aws.png",
+    "azure.png",
+    "cloudflare.png",
+    "digitalocean.png",
+    "docker.png",
+    "gcp.png",
+    "heroku.png",
+    "kubernetes.png",
+    "netlify.png",
+    "vercel.png"
+  ],
+  "database": [
+    "cassandra.png",
+    "dynamodb.png",
+    "elasticsearch.png",
+    "firebase.png",
+    "mongodb.png",
+    "mysql.png",
+    "oracle.png",
+    "postgresql.png",
+    "redis.png",
+    "sqlite.png"
+  ],
+  "devops": [
+    "ansible.png",
+    "circleci.png",
+    "git.png",
+    "github-actions.png",
+    "grafana.png",
+    "jenkins.png",
+    "jira.png",
+    "prometheus.png",
+    "terraform.png",
+    "travis-ci.png"
+  ],
+  "frontend": [
+    "angular.png",
+    "bootstrap.png",
+    "css3.png",
+    "html5.png",
+    "javascript.png",
+    "react.png",
+    "sass.png",
+    "tailwindcss.png",
+    "typescript.png",
+    "vuejs.png"
+  ],
+  "tools": [
+    "bash.png",
+    "figma.png",
+    "gulp.png",
+    "illustrator.png",
+    "npm.png",
+    "photoshop.png",
+    "postman.png",
+    "sketch.png",
+    "vscode.png",
+    "webpack.png"
+  ]
+}
