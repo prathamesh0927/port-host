@@ -1,11 +1,30 @@
 {
+  "Programming Languages": [
+    "Java.svg",
+    "Javascript.svg",
+    "Python.svg",
+    "TypeScript.svg",
+    "C++.svg",
+    "Solidity.svg",
+    "Golang.svg"
+  ],
+  "AI Frameworks": [
+    "ChatGPT.svg",
+    "Claude.svg",
+    "Gemini.svg",
+    "Llama.svg",
+    "Hugging-Face.svg",
+    "LangChain.svg",
+    "LangGraph.svg",
+    "CrewAI.svg",
+    "Langfuse.svg"
+  ],
   "backend": [
     "django.png",
     "expressJS.png",
     "nestJS.svg",
     "nodejs.png",
-    "Java-Play.png",
-    "nextJS.svg"
+    "Java-Play.png"
   ],
   "Devops-Cloud": [
     "Ansible.svg",
@@ -36,7 +55,6 @@
     "Angular.svg",
     "Css.svg",
     "HTML.svg",
-    "JavaScript.svg",
     "React.svg",
     "Scss.svg",
     "Typescript.svg"
